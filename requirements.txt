@@ -7,4 +7,4 @@ cycler>=0.10.0
 yellowbrick
 seaborn
 pandas
-statsmodel
+statsmodels
