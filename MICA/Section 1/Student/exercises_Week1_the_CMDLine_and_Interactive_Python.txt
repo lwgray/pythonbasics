@@ -1,0 +1,21 @@
+Exercise 1. Via the Commandline/Anaconda Prompt Powershell/Terminal Create a new directory on your desktop  called python_basics [ you have to google the command]
+
+Exercise 2. Via the Commandline/Anaconda Prompt Powershell/Terminal Create a single empty text file within python_basics folder called "hello_world.txt" (exclude quotation marks) .
+	
+	For Mac Users:
+   	HINT 1: See `touch` command. https://vitux.com/8-common-uses-of-the-linux-touch-command/
+	HINT 2: Use list item #1
+	HINT 3: touch "filename" [replace filename with text file name (exclude quotation marks)]
+	HINT 4: touch helloworld.txt
+	
+ 	For Windows Users:
+	HINT 1: See `echo $null >>` command. 
+	HINT 2: echo $null >> "filename" [replace filename with text file name (exclude quotation marks)]
+	HINT 3: echo $null >> helloworld.txt
+ 
+Exercise 3. Open "hello_world.txt" in Sublime text editor and on the first line, type in the absolute path to the hello_world.txt file.  Upload hello_world.txt file to canvas
+
+Exercise 4.  Open Interactive Python - 
+	HINT 1. Type "python" or "ipython" on commandline (exclude quotes)
+	4a. Type "import this" (without quotes) then "Return/Enter" on your keyboard.  Copy text that is printed to screen to a file name "zen.txt" (use sublime text) and upload to canvas.
+	4b.  Type "exit()" (exclude quotes) to exit interactive python
