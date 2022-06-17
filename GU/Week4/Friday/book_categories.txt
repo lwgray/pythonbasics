@@ -1,0 +1,19 @@
+category--book_id--book_name--rank--sales--type--sold_out--best_seller
+Technical--121--Applied Text Analysis with Python--2--3706--non_fiction--1--0
+Technical--456--Pandas 1.x Cookbook--5--262--fiction--0--0
+Technical--789--Think Stats--1--6171--fiction--1--0
+Technical--101--Think Python--0--5836--non_fiction--0--0
+Technical--123--Visual Analytics for Machine Learning--1--3415--non_fiction--0--0
+Autobiography--134--Rockstar--3--3250--fiction--0--0
+Autobiography--135--Birds of Prey--3--5193--non_fiction--0--1
+Autobiography--136--Walrus in a shoe--1--1043--non_fiction--1--1
+Children--231--Cat in a hat--0--1754--fiction--1--0
+Children--232--Pete the cat and his white shoes--3--9670--non_fiction--0--1
+Children--233--The woman who ate a fly--5--4417--non_fiction--1--0
+Adult--334--2001 Space Odessey--0--6630--non_fiction--1--0
+Comic--432--The Avengers--2--2703--non_fiction--1--0
+Comic--433--Thor--4--5324--fiction--1--1
+Comic--434--WandaVision--3--9920--fiction--1--1
+Comic--435--The Incredible Hulk--2--7278--non_fiction--0--1
+Comic--436--Iron Man--3--61--non_fiction--0--0
+Comic--437--Captain America--4--8113--fiction--0--1

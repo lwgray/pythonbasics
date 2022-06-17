@@ -1,0 +1,1101 @@
+,name,age,gender,user_name,monster_card,monster_description,price
+0,Katherine,59,female,zachary04,tyrannosaurus-rex,humanoid (any race),18.31
+1,Kimberly,77,female,hatfieldallen,spy,fey,15.56
+2,Bonnie,33,female,christopher53,tyrannosaurus-rex,dragon,7.58
+3,Patricia,64,female,kristinle,werewolf,fey,4.48
+4,Cynthia,17,female,ecrosby,giant-constrictor-snake,humanoid (orc),17.73
+5,Melissa,34,female,reevesmegan,darkling-elder,humanoid (goblinoid),2.3
+6,Gabriela,14,female,zmcmillan,minotaur-skeleton,fiend (yugoloth),6.12
+7,Tina,74,female,reevesmegan,mummy-lord,fiend (yugoloth),17.15
+8,Michelle,37,female,morenoellen,archmage,fiend (demon),17.65
+9,Heather,5,female,zmcmillan,spy,humanoid (any race),7.34
+10,Kimberly,63,female,fcrosby,swarm-of-poisonous-snakes,undead (titan),2.45
+11,Chelsea,66,female,mcdowellelizabeth,spy,fiend (demon),5.09
+12,Kaitlyn,6,female,april74,magmin,fey,3.68
+13,Tara,42,female,kristinle,shadow-demon,plant,6.26
+14,Tanya,8,female,rjones,wight,aberration (shapechanger),6.71
+15,Emma,22,female,kristinle,shadow-demon,fiend (demon),8.34
+16,Jessica,47,female,rrobinson,owlbear,humanoid (any race),16.51
+17,Kelly,63,female,hatfieldallen,hobgoblin-warlord,aberration,17.75
+18,Kimberly,59,female,stevenrichards,bugbear-chief,humanoid,6.23
+19,Wanda,26,female,jamesrodriguez,young-kruthik,fiend (devil),18.84
+20,Angelica,16,female,rrobinson,galeb-duhr,celestial,5.85
+21,Christina,27,female,april74,magmin,fey (elf),14.3
+22,Lisa,23,female,nelsonkevin,werewolf,dragon,7.15
+23,Gabriella,60,female,reevesmegan,spy,humanoid (kuo-toa),5.07
+24,Jamie,39,female,hatfieldallen,drow,beast,16.76
+25,Melissa,43,female,kathryn75,bugbear-chief,fiend (demon),12.11
+26,Christina,12,female,tabitha94,archmage,undead,8.54
+27,Alyssa,61,female,zmcmillan,drow,beast,18.69
+28,Tricia,29,female,zmcmillan,young-kruthik,beast,19.1
+29,Emily,29,female,kathryn75,shadow-demon,humanoid (goblinoid),11.15
+30,Ariel,66,female,lewispatricia,owlbear,beast,3.49
+31,Amy,24,female,iadams,darkling-elder,undead,14.56
+32,Meghan,24,female,ecrosby,shadow-demon,beast,2.66
+33,Jessica,21,female,crawfordcharles,shadow-demon,fiend (yugoloth),8.44
+34,Gina,44,female,crawfordcharles,galeb-duhr,beast,11.21
+35,Veronica,41,female,tabitha94,owlbear,humanoid (any race),11.98
+36,Tara,22,female,xbarker,spy,fiend (devil),6.28
+37,Michelle,54,female,nelsonkevin,giant-constrictor-snake,fiend (yugoloth),14.33
+38,Stephanie,38,female,crawfordcharles,mummy-lord,undead,16.91
+39,Carol,53,female,todd72,warhorse-skeleton,construct,5.42
+40,Valerie,65,female,mcdowellelizabeth,galeb-duhr,humanoid (elf),1.05
+41,Alexa,64,female,qbennett,mummy-lord,humanoid (merfolk),17.0
+42,Linda,64,female,rjones,galeb-duhr,monstrosity (titan),10.08
+43,Tammy,39,female,kimberlybutler,imix,construct,4.92
+44,Susan,69,female,kristinle,hobgoblin-warlord,undead (shapechanger),1.54
+45,Michele,62,female,rita19,tyrannosaurus-rex,fiend (devil),19.41
+46,Tammy,63,female,reevesmegan,werewolf,beast,7.3
+47,Lisa,47,female,ymaxwell,mummy-lord,humanoid (any race),14.04
+48,Brittney,45,female,ymaxwell,minotaur-skeleton,humanoid (elf),10.67
+49,Tammie,38,female,reevesmegan,darkling-elder,"humanoid (human, shapechanger)",12.44
+50,Cheyenne,46,female,zmcmillan,owlbear,ooze,9.7
+51,Jodi,13,female,stevenrichards,minotaur-skeleton,humanoid (any race),11.42
+52,Jill,34,female,robertbates,warhorse-skeleton,celestial,17.54
+53,Kathryn,53,female,hatfieldallen,shadow-demon,beast,13.67
+54,Gabrielle,43,female,stevenrichards,warhorse-skeleton,monstrosity (shapechanger),18.27
+55,Debra,11,female,kathryn75,wight,undead,10.23
+56,Stacy,77,female,johnsonmichael,warhorse-skeleton,fey,2.57
+57,Jenna,5,female,ilarson,minotaur-skeleton,humanoid (any race),4.09
+58,Melissa,66,female,pbrown,darkling-elder,humanoid (any race),12.78
+59,Katherine,21,female,xbarker,drow,elemental,4.12
+60,Danielle,67,female,zmcmillan,galeb-duhr,fey,3.45
+61,Donna,74,female,xbarker,imix,aberration,17.04
+62,Tracy,8,female,kimberlybutler,spy,monstrosity,15.5
+63,Stephanie,55,female,hatfieldallen,imix,monstrosity,2.35
+64,Brooke,32,female,diane20,warhorse-skeleton,fey,14.09
+65,Crystal,51,female,rrobinson,shadow-demon,dragon,9.51
+66,Tina,13,female,ymaxwell,young-kruthik,humanoid (human),3.81
+67,Tammy,33,female,christopher53,warhorse-skeleton,giant,8.06
+68,Heather,25,female,reevesmegan,tyrannosaurus-rex,elemental,15.73
+69,Kimberly,80,female,iadams,giant-constrictor-snake,humanoid (any race),13.81
+70,Jessica,35,female,todd72,imix,aberration,7.87
+71,Jill,50,female,ymaxwell,galeb-duhr,humanoid (lizardfolk),15.79
+72,Krista,32,female,ymaxwell,tyrannosaurus-rex,humanoid (gnoll),12.08
+73,Penny,37,female,zachary04,darkling-elder,elemental,1.67
+74,Michelle,30,female,xbarker,minotaur-skeleton,fey,8.02
+75,Michelle,26,female,taylor07,mummy-lord,fiend (devil),16.93
+76,Andrea,37,female,rjones,bugbear-chief,plant,17.66
+77,Dana,72,female,jamesrodriguez,drow,humanoid (elf),9.43
+78,Maria,25,female,april74,minotaur-skeleton,elemental,11.07
+79,Michelle,79,female,lewispatricia,hobgoblin-warlord,monstrosity,9.46
+80,Karla,50,female,rita19,giant-constrictor-snake,elemental,16.85
+81,Penny,19,female,rita19,hobgoblin-warlord,humanoid (orc),2.84
+82,Tina,74,female,pbrown,wight,humanoid (firenewt),19.85
+83,Melissa,12,female,ilarson,galeb-duhr,beast,14.52
+84,Sandra,48,female,qbennett,darkling-elder,humanoid (elf),12.51
+85,Erin,62,female,taylor07,bugbear-chief,beast,3.05
+86,Ruth,62,female,nicole31,spy,humanoid (dwarf),4.34
+87,Kelly,45,female,rjones,galeb-duhr,beast,14.2
+88,Renee,28,female,robertbates,tyrannosaurus-rex,undead,19.45
+89,Melanie,43,female,rita19,shadow-demon,fey (elf),16.33
+90,Elizabeth,36,female,tabitha94,owlbear,humanoid (human),6.85
+91,Patricia,78,female,tabitha94,minotaur-skeleton,humanoid (any race),4.16
+92,Rebecca,53,female,ecrosby,mummy-lord,aberration,12.29
+93,Kathryn,39,female,taylor07,imix,fiend (demon),3.97
+94,Brenda,27,female,zcharles,imix,beast,8.93
+95,Jaime,46,female,stevenrichards,wight,aberration,8.44
+96,Cassandra,76,female,rrobinson,owlbear,giant,16.83
+97,Breanna,23,female,mcdowellelizabeth,young-kruthik,undead,1.65
+98,Elizabeth,76,female,xbarker,warhorse-skeleton,monstrosity (titan),11.33
+99,Katherine,58,female,zcharles,tyrannosaurus-rex,beast,8.68
+100,Rebecca,11,female,reevesmegan,spy,aberration,16.7
+101,Lindsay,51,female,rrobinson,galeb-duhr,humanoid (firenewt),14.16
+102,Debra,68,female,taylor07,giant-constrictor-snake,plant,9.59
+103,Sydney,11,female,kathryn75,tyrannosaurus-rex,elemental,4.43
+104,Tiffany,21,female,fcrosby,young-kruthik,elemental,11.02
+105,Shannon,41,female,rita19,hobgoblin-warlord,construct,16.22
+106,Kaitlyn,79,female,pbrown,wight,fiend (yugoloth),17.34
+107,Shelby,63,female,nelsonkevin,owlbear,humanoid (derro),2.25
+108,Carol,59,female,johnsonmichael,bugbear-chief,beast,15.33
+109,Rebecca,37,female,iadams,darkling-elder,beast,3.75
+110,Crystal,53,female,crawfordcharles,archmage,construct,10.93
+111,Danielle,30,female,ilarson,imix,fiend (demon),13.91
+112,Andrea,69,female,april74,archmage,humanoid (tortle),5.25
+113,Samantha,73,female,christopher53,tyrannosaurus-rex,fiend (devil),16.52
+114,Robyn,33,female,ecrosby,young-kruthik,humanoid (any race),10.44
+115,Sandra,45,female,stevenrichards,drow,humanoid (any race),15.66
+116,Kristina,75,female,rrobinson,mummy-lord,fiend (devil),12.23
+117,Brianna,5,female,ymaxwell,minotaur-skeleton,monstrosity,18.55
+118,Jennifer,60,female,morenoellen,galeb-duhr,humanoid (any race),4.98
+119,Claudia,58,female,qbennett,magmin,beast,4.38
+120,Kristina,25,female,reevesmegan,warhorse-skeleton,fiend,15.21
+121,Brianna,32,female,reevesmegan,giant-constrictor-snake,humanoid (elf),1.63
+122,Christy,37,female,zmcmillan,tyrannosaurus-rex,fiend,10.66
+123,Misty,38,female,stevenrichards,tyrannosaurus-rex,humanoid (any race),8.82
+124,Lisa,64,female,christopher53,mummy-lord,dragon,5.38
+125,Meghan,65,female,todd72,mummy-lord,humanoid (gnoll),9.47
+126,Kelly,25,female,robertbates,swarm-of-poisonous-snakes,elemental,13.23
+127,Hannah,42,female,stevenrichards,tyrannosaurus-rex,beast,16.85
+128,Cheryl,44,female,crawfordcharles,swarm-of-poisonous-snakes,undead,1.62
+129,Courtney,42,female,rrobinson,tyrannosaurus-rex,fiend (demon),4.09
+130,Kristen,46,female,ymaxwell,magmin,aberration,16.83
+131,Alicia,56,female,ilarson,giant-constrictor-snake,dragon,12.43
+132,Heidi,55,female,zcharles,giant-constrictor-snake,humanoid (saurial),8.71
+133,Jessica,74,female,stevenrichards,owlbear,plant,12.17
+134,Melanie,71,female,diane20,giant-constrictor-snake,undead,8.53
+135,Alexandra,43,female,zmcmillan,werewolf,fiend,17.26
+136,Jennifer,12,female,ilarson,imix,elemental,5.98
+137,Jennifer,12,female,reevesmegan,imix,plant,15.83
+138,Terri,4,female,april74,shadow-demon,fey (elf),12.59
+139,Mariah,16,female,zcharles,darkling-elder,monstrosity (shapechanger),18.5
+140,Kelly,8,female,nelsonkevin,giant-constrictor-snake,humanoid (any race),15.33
+141,Nicole,54,female,kathryn75,minotaur-skeleton,swarm of Tiny beasts,1.61
+142,Patricia,76,female,ilarson,darkling-elder,humanoid (human),15.04
+143,Phyllis,14,female,stevenrichards,drow,fey,15.74
+144,Kristy,5,female,reevesmegan,spy,fiend (devil),17.0
+145,Elizabeth,74,female,april74,imix,humanoid (any race),12.97
+146,Leslie,58,female,christopher53,galeb-duhr,humanoid (any race),2.66
+147,Alicia,13,female,april74,owlbear,humanoid (goblinoid),8.38
+148,Melissa,15,female,christopher53,werewolf,humanoid (any race),9.57
+149,Becky,19,female,rita19,shadow-demon,beast,11.81
+150,Tracy,7,female,ilarson,darkling-elder,fey (elf),10.38
+151,Laura,13,female,zmcmillan,young-kruthik,beast,7.84
+152,Olivia,5,female,jamesrodriguez,owlbear,humanoid (elf),11.29
+153,Jennifer,76,female,johnsonmichael,young-kruthik,fiend (yugoloth),12.88
+154,Christine,66,female,pbrown,galeb-duhr,monstrosity,13.66
+155,Jessica,76,female,fcrosby,mummy-lord,ooze,6.26
+156,Ashley,21,female,april74,werewolf,fiend (devil),13.6
+157,Jennifer,36,female,kathryn75,drow,humanoid,4.19
+158,Shannon,80,female,kristinle,shadow-demon,undead,8.97
+159,Lisa,9,female,april74,tyrannosaurus-rex,beast,1.71
+160,Susan,42,female,diane20,hobgoblin-warlord,humanoid (any race),19.5
+161,Michelle,39,female,taylor07,darkling-elder,celestial,8.9
+162,Rachel,60,female,stevenrichards,shadow-demon,construct,13.0
+163,Nicole,45,female,robertbates,archmage,beast,2.8
+164,Crystal,49,female,kimberlybutler,young-kruthik,monstrosity,8.39
+165,Amy,55,female,ymaxwell,wight,elemental,18.71
+166,Jamie,80,female,mcdowellelizabeth,bugbear-chief,undead,7.82
+167,Beth,68,female,rjones,shadow-demon,beast,11.79
+168,Megan,77,female,pbrown,drow,humanoid (human),6.78
+169,Alyssa,50,female,jamesrodriguez,imix,elemental,5.24
+170,Katie,74,female,zcharles,owlbear,fiend,3.35
+171,Rebecca,24,female,robertbates,swarm-of-poisonous-snakes,beast,9.54
+172,Monica,38,female,zcharles,spy,undead,10.93
+173,Alicia,65,female,todd72,shadow-demon,fiend (devil),6.72
+174,Amber,30,female,fcrosby,werewolf,monstrosity,18.82
+175,Theresa,77,female,reevesmegan,archmage,aberration,19.56
+176,Amanda,40,female,kimberlybutler,mummy-lord,beast,12.01
+177,Nicole,58,female,lewispatricia,shadow-demon,undead,11.94
+178,Sonya,64,female,qbennett,magmin,undead,19.48
+179,Crystal,9,female,zachary04,magmin,giant,19.69
+180,Lisa,18,female,lewispatricia,warhorse-skeleton,beast,17.67
+181,Laura,5,female,nicole31,archmage,dragon,6.96
+182,Stephanie,35,female,tabitha94,mummy-lord,plant,7.83
+183,Dana,32,female,reevesmegan,owlbear,humanoid (any race),4.9
+184,Judy,41,female,qbennett,giant-constrictor-snake,construct,19.7
+185,Deborah,70,female,rrobinson,mummy-lord,plant,18.97
+186,Jennifer,24,female,rjones,owlbear,giant,1.4
+187,Natalie,46,female,zmcmillan,owlbear,undead (shapechanger),7.86
+188,Kelly,18,female,tabitha94,spy,undead,6.6
+189,Alexandra,56,female,stevenrichards,magmin,humanoid (xvart),7.15
+190,Dorothy,53,female,nelsonkevin,hobgoblin-warlord,beast,8.16
+191,Martha,55,female,christopher53,drow,"humanoid (human, shapechanger)",13.3
+192,Tina,75,female,reevesmegan,minotaur-skeleton,beast,10.86
+193,Linda,49,female,rrobinson,shadow-demon,construct,2.14
+194,Susan,5,female,xbarker,drow,fiend (devil),16.32
+195,Melody,18,female,fcrosby,wight,beast,11.55
+196,Marissa,32,female,robertbates,mummy-lord,humanoid (human),16.0
+197,Lori,11,female,reevesmegan,imix,beast,7.33
+198,Lisa,46,female,tabitha94,hobgoblin-warlord,beast,19.64
+199,Tami,61,female,jamesrodriguez,darkling-elder,dragon,15.16
+200,Jessica,30,female,crawfordcharles,archmage,beast,1.23
+201,Jessica,55,female,stevenrichards,tyrannosaurus-rex,aberration,1.15
+202,Gina,58,female,ecrosby,minotaur-skeleton,undead (titan),12.33
+203,Donna,55,female,tabitha94,swarm-of-poisonous-snakes,humanoid (human),9.49
+204,Anna,33,female,hatfieldallen,drow,"fiend (demon, orc)",2.81
+205,Stacy,4,female,crawfordcharles,imix,fiend (devil),18.28
+206,Sandra,73,female,christopher53,archmage,beast,3.71
+207,Morgan,15,female,ilarson,magmin,undead,19.58
+208,Laura,13,female,nicole31,magmin,fiend (demon),17.35
+209,Gabriela,28,female,qbennett,galeb-duhr,humanoid (dwarf),14.95
+210,Kelsey,78,female,ilarson,shadow-demon,beast,17.97
+211,Lindsay,72,female,jamesrodriguez,bugbear-chief,fiend,5.26
+212,Mary,77,female,zcharles,giant-constrictor-snake,"fiend (demon, shapechanger)",7.9
+213,Jennifer,67,female,taylor07,minotaur-skeleton,beast,10.26
+214,Jessica,68,female,nelsonkevin,hobgoblin-warlord,fiend,18.96
+215,Catherine,44,female,rita19,werewolf,monstrosity,19.24
+216,Ashley,16,female,nelsonkevin,young-kruthik,beast,18.26
+217,Stephanie,61,female,zmcmillan,minotaur-skeleton,fiend (devil),6.1
+218,Erin,14,female,hatfieldallen,hobgoblin-warlord,aberration (shapechanger),9.44
+219,Laurie,15,female,xbarker,shadow-demon,giant,1.59
+220,Valerie,14,female,rita19,galeb-duhr,humanoid (kuo-toa),15.64
+221,Cheryl,45,female,rita19,wight,monstrosity,14.56
+222,Kelly,79,female,xbarker,werewolf,giant,19.21
+223,Jennifer,49,female,nelsonkevin,giant-constrictor-snake,giant,10.17
+224,Emily,70,female,kristinle,shadow-demon,fiend (demon),1.52
+225,Kayla,17,female,kathryn75,swarm-of-poisonous-snakes,beast,10.88
+226,Marcia,57,female,mcdowellelizabeth,mummy-lord,fiend (devil),15.62
+227,Theresa,67,female,reevesmegan,archmage,humanoid (human),9.67
+228,Margaret,62,female,zachary04,hobgoblin-warlord,humanoid (any race),10.46
+229,Erin,39,female,ymaxwell,spy,humanoid (any race),19.25
+230,Molly,7,female,stevenrichards,giant-constrictor-snake,dragon,6.85
+231,Lisa,22,female,rrobinson,wight,construct,14.1
+232,Deborah,70,female,taylor07,drow,giant,9.48
+233,Sheila,70,female,xbarker,magmin,monstrosity,16.74
+234,Angela,13,female,diane20,shadow-demon,humanoid (human),12.0
+235,Susan,52,female,kathryn75,drow,humanoid (human),18.07
+236,Joanne,26,female,diane20,archmage,dragon,5.69
+237,Lisa,18,female,ecrosby,mummy-lord,beast,10.93
+238,Alexandra,19,female,todd72,minotaur-skeleton,humanoid (any race),6.62
+239,Amanda,43,female,zcharles,drow,celestial,15.45
+240,Lisa,72,female,tabitha94,hobgoblin-warlord,beast,12.97
+241,Ashley,24,female,pbrown,hobgoblin-warlord,humanoid (nagpa),7.29
+242,Mary,25,female,johnsonmichael,archmage,fiend,5.94
+243,Meredith,49,female,lewispatricia,mummy-lord,fiend (demon),19.61
+244,Cassidy,71,female,qbennett,spy,beast,8.51
+245,Laura,53,female,fcrosby,drow,humanoid (elf),16.95
+246,Debra,48,female,robertbates,swarm-of-poisonous-snakes,plant,12.07
+247,Sandra,58,female,robertbates,darkling-elder,humanoid (human),6.19
+248,Nicole,34,female,qbennett,galeb-duhr,monstrosity,2.33
+249,Samantha,42,female,todd72,shadow-demon,dragon,14.27
+250,Emily,11,female,lewispatricia,wight,humanoid (any race),5.86
+251,Teresa,15,female,reevesmegan,magmin,humanoid (human),12.08
+252,Amanda,49,female,kathryn75,werewolf,humanoid (goblinoid),9.48
+253,Laura,15,female,tabitha94,bugbear-chief,construct,10.06
+254,Gail,60,female,stevenrichards,werewolf,giant,10.94
+255,Kimberly,5,female,crawfordcharles,giant-constrictor-snake,giant (fire giant),12.67
+256,Nancy,6,female,pbrown,warhorse-skeleton,humanoid (goblinoid),4.09
+257,Anita,33,female,hatfieldallen,werewolf,celestial,16.7
+258,Patricia,30,female,nicole31,mummy-lord,monstrosity,14.98
+259,Taylor,53,female,kimberlybutler,spy,plant,6.22
+260,Patty,48,female,fcrosby,werewolf,aberration,1.6
+261,Alice,34,female,xbarker,shadow-demon,giant (storm giant),3.89
+262,Angela,57,female,kristinle,giant-constrictor-snake,humanoid (xvart),18.1
+263,Sarah,77,female,ilarson,minotaur-skeleton,humanoid (kuo-toa),12.21
+264,Kristin,58,female,kathryn75,owlbear,fiend (demon),12.63
+265,Haley,77,female,rjones,spy,construct,14.99
+266,Melanie,79,female,zcharles,spy,beast,10.95
+267,Rose,57,female,zcharles,imix,construct,15.52
+268,Lisa,34,female,zachary04,giant-constrictor-snake,aberration,8.44
+269,Alicia,60,female,nelsonkevin,wight,fiend,6.74
+270,Joy,55,female,kimberlybutler,magmin,giant (frost giant),17.93
+271,Colleen,50,female,kathryn75,magmin,beast,14.75
+272,Hannah,39,female,april74,hobgoblin-warlord,plant,15.43
+273,Frances,27,female,todd72,galeb-duhr,undead,7.74
+274,Jasmine,46,female,hatfieldallen,warhorse-skeleton,humanoid (any race),14.78
+275,Melissa,62,female,johnsonmichael,bugbear-chief,elemental,14.37
+276,Amanda,7,female,rrobinson,magmin,monstrosity,7.08
+277,Brandi,30,female,robertbates,warhorse-skeleton,fiend (demon),9.14
+278,Heather,7,female,xbarker,mummy-lord,aberration,15.82
+279,Natasha,50,female,stevenrichards,galeb-duhr,undead,7.06
+280,Anne,26,female,jamesrodriguez,tyrannosaurus-rex,beast,10.06
+281,Deborah,69,female,kathryn75,minotaur-skeleton,humanoid (any race),7.51
+282,Caitlin,38,female,xbarker,warhorse-skeleton,celestial,14.76
+283,Lisa,26,female,kathryn75,minotaur-skeleton,beast,11.08
+284,Kristina,15,female,pbrown,tyrannosaurus-rex,undead,7.53
+285,Katherine,78,female,stevenrichards,giant-constrictor-snake,dragon,2.99
+286,Angela,66,female,xbarker,owlbear,giant,9.07
+287,Rachel,10,female,pbrown,young-kruthik,undead,19.66
+288,Nicole,72,female,jamesrodriguez,wight,undead (shapechanger),16.47
+289,Megan,45,female,stevenrichards,magmin,fiend (demon),4.51
+290,Sara,39,female,qbennett,tyrannosaurus-rex,beast,11.45
+291,Jennifer,64,female,reevesmegan,wight,celestial,19.09
+292,Emily,38,female,rjones,shadow-demon,monstrosity,13.28
+293,Kimberly,51,female,qbennett,shadow-demon,fiend (yugoloth),13.04
+294,Lori,46,female,taylor07,shadow-demon,monstrosity,14.81
+295,Laura,31,female,zachary04,galeb-duhr,humanoid (any race),10.51
+296,Michelle,21,female,jamesrodriguez,archmage,humanoid (any race),12.65
+297,Carolyn,36,female,hatfieldallen,bugbear-chief,aberration,16.62
+298,Jessica,25,female,hatfieldallen,galeb-duhr,fiend (demon),14.1
+299,Kathryn,21,female,reevesmegan,wight,humanoid (any race),13.39
+300,Brenda,77,female,morenoellen,young-kruthik,"fiend (demon, shapechanger)",1.57
+301,Kathryn,72,female,crawfordcharles,werewolf,humanoid (dwarf),7.35
+302,Karen,70,female,ymaxwell,warhorse-skeleton,plant,8.1
+303,Laura,74,female,stevenrichards,swarm-of-poisonous-snakes,elemental,5.88
+304,Elizabeth,75,female,taylor07,magmin,elemental,11.87
+305,Destiny,20,female,rita19,tyrannosaurus-rex,fiend (yugoloth),7.59
+306,Brenda,20,female,christopher53,tyrannosaurus-rex,humanoid (any race),17.11
+307,Bonnie,65,female,ilarson,warhorse-skeleton,aberration (shapechanger),16.61
+308,Wendy,22,female,kristinle,wight,fiend (demon),11.24
+309,Mary,66,female,nelsonkevin,magmin,humanoid (human),13.51
+310,Wendy,5,female,johnsonmichael,bugbear-chief,monstrosity,19.75
+311,Debbie,36,female,todd72,mummy-lord,undead,5.99
+312,Emily,33,female,lewispatricia,galeb-duhr,beast,16.32
+313,Elizabeth,73,female,zmcmillan,shadow-demon,humanoid (any race),17.25
+314,Brittney,23,female,todd72,spy,humanoid (goblinoid),17.33
+315,Mackenzie,72,female,hatfieldallen,galeb-duhr,beast,15.8
+316,Tracey,47,female,robertbates,hobgoblin-warlord,monstrosity,14.59
+317,Joy,35,female,crawfordcharles,giant-constrictor-snake,undead,15.95
+318,Deborah,72,female,todd72,hobgoblin-warlord,fiend,11.27
+319,Jackie,67,female,stevenrichards,magmin,beast,13.88
+320,Amber,56,female,ilarson,werewolf,fiend (devil),11.62
+321,Hannah,12,female,rita19,imix,construct,11.62
+322,Rachel,60,female,april74,hobgoblin-warlord,beast,18.39
+323,Michele,28,female,ecrosby,mummy-lord,aberration,5.38
+324,Alexa,20,female,pbrown,giant-constrictor-snake,fiend (devil),11.47
+325,Amanda,5,female,rrobinson,young-kruthik,dragon,5.69
+326,Lisa,23,female,robertbates,young-kruthik,fiend (demon),2.37
+327,Chelsey,22,female,april74,giant-constrictor-snake,humanoid (human),6.01
+328,Samantha,71,female,iadams,warhorse-skeleton,fey,1.93
+329,Valerie,40,female,zmcmillan,darkling-elder,fey,10.93
+330,Marissa,73,female,iadams,young-kruthik,humanoid (dwarf),6.72
+331,Megan,21,female,rita19,bugbear-chief,swarm of Tiny beasts,19.73
+332,Rebekah,66,female,zachary04,young-kruthik,beast,6.29
+333,Emily,20,female,zachary04,werewolf,fiend (devil),15.59
+334,Tammy,35,female,fcrosby,owlbear,beast,4.72
+335,Susan,7,female,nicole31,shadow-demon,humanoid (tortle),18.69
+336,Jennifer,62,female,fcrosby,young-kruthik,beast,8.97
+337,Taylor,37,female,kathryn75,swarm-of-poisonous-snakes,humanoid (shapechanger),6.53
+338,Jill,30,female,stevenrichards,giant-constrictor-snake,fiend (demon),12.63
+339,Kelly,16,female,zachary04,minotaur-skeleton,elemental,9.78
+340,Tina,44,female,qbennett,mummy-lord,fiend (demon),15.83
+341,Lynn,46,female,ymaxwell,wight,giant,13.28
+342,Felicia,8,female,todd72,minotaur-skeleton,dragon,1.37
+343,Chloe,37,female,april74,hobgoblin-warlord,humanoid (elf),5.89
+344,Tiffany,50,female,rita19,magmin,dragon,11.73
+345,Emily,60,female,taylor07,mummy-lord,fiend (yugoloth),11.99
+346,Jennifer,80,female,crawfordcharles,imix,beast,1.3
+347,Holly,20,female,pbrown,giant-constrictor-snake,fiend (yugoloth),6.24
+348,Jessica,67,female,zmcmillan,archmage,monstrosity,13.4
+349,Jasmine,45,female,tabitha94,drow,undead,17.37
+0,Todd,55,male,jessica82,hobgoblin-warlord,humanoid (any race),2.22
+1,Michael,16,male,patelkathy,owlbear,elemental,11.63
+2,David,38,male,jessica82,spy,beast,6.71
+3,Timothy,11,male,clawrence,werewolf,humanoid (goblinoid),10.55
+4,Lawrence,6,male,amanda97,spy,fey,1.38
+5,Jesse,70,male,brittney82,mummy-lord,dragon,16.35
+6,Ian,18,male,edwardstricia,warhorse-skeleton,monstrosity,4.98
+7,Jordan,43,male,oscarsmith,shadow-demon,beast,10.13
+8,Timothy,72,male,brandy94,magmin,beast,6.5
+9,Clayton,24,male,zestrada,tyrannosaurus-rex,elemental,9.68
+10,James,12,male,jacqueline43,archmage,"humanoid (human, shapechanger)",2.35
+11,Jesse,6,male,edwardstricia,bugbear-chief,humanoid (lizardfolk),7.33
+12,Thomas,76,male,glopez,archmage,undead (shapechanger),7.21
+13,Roy,13,male,oscarsmith,mummy-lord,humanoid (xvart),7.76
+14,Richard,56,male,nbernard,mummy-lord,humanoid (human),2.51
+15,Casey,41,male,zestrada,minotaur-skeleton,elemental,4.62
+16,James,34,male,christophercarter,minotaur-skeleton,monstrosity,6.18
+17,Timothy,46,male,amanda97,drow,fey,7.41
+18,Jason,28,male,brittney82,archmage,beast,11.85
+19,Lee,11,male,edwardstricia,tyrannosaurus-rex,humanoid (any race),13.3
+20,David,34,male,jhernandez,tyrannosaurus-rex,construct,7.03
+21,Gabriel,20,male,christophercarter,darkling-elder,undead,12.99
+22,Jeremy,40,male,myersmark,warhorse-skeleton,undead (titan),3.87
+23,Erik,42,male,michelle32,werewolf,ooze,14.08
+24,Matthew,50,male,jessica82,owlbear,elemental,15.8
+25,Mario,31,male,williamsfrederick,galeb-duhr,humanoid (any race),19.28
+26,Robert,69,male,luislane,magmin,fiend (devil),9.33
+27,Nathan,5,male,robert10,giant-constrictor-snake,monstrosity,4.09
+28,Justin,60,male,johnsonvicki,giant-constrictor-snake,fiend,6.63
+29,Christopher,4,male,linda70,warhorse-skeleton,construct,19.52
+30,Jerry,16,male,lee93,galeb-duhr,humanoid (any race),5.66
+31,Peter,67,male,leeolivia,tyrannosaurus-rex,humanoid (dwarf),12.15
+32,Jerry,32,male,christophercarter,magmin,fiend (demon),2.13
+33,Christopher,16,male,bethanybailey,darkling-elder,undead (titan),19.68
+34,Jesus,70,male,jonathan09,darkling-elder,humanoid (any race),8.89
+35,John,25,male,marysanders,magmin,monstrosity,5.46
+36,Maurice,22,male,ricardocunningham,darkling-elder,beast,3.87
+37,Ryan,51,male,uharris,drow,beast,5.16
+38,Anthony,3,male,carlawatson,minotaur-skeleton,fiend,11.58
+39,Eric,61,male,bethanybailey,mummy-lord,humanoid (human),12.04
+40,Daniel,32,male,hscott,owlbear,aberration,15.66
+41,Casey,13,male,christophercarter,wight,monstrosity,15.42
+42,Todd,79,male,connerruth,wight,construct,17.49
+43,Kerry,24,male,gonzalezveronica,werewolf,beast,16.49
+44,Collin,40,male,gaillowe,owlbear,beast,14.16
+45,William,44,male,maryhall,archmage,monstrosity,4.88
+46,Seth,71,male,paynejennifer,tyrannosaurus-rex,humanoid (orc),8.27
+47,Jake,49,male,sheilabarker,imix,elemental,17.24
+48,Eddie,63,male,lozanoandrew,swarm-of-poisonous-snakes,plant,12.92
+49,Kevin,54,male,brittney82,archmage,dragon,3.93
+50,Jeffrey,62,male,myersmark,young-kruthik,humanoid (tortle),18.82
+51,John,72,male,marysanders,galeb-duhr,beast,2.68
+52,Tony,28,male,christophercarter,swarm-of-poisonous-snakes,fiend (demon),13.1
+53,Kenneth,8,male,robert10,young-kruthik,humanoid (elf),14.18
+54,Ralph,64,male,carrie58,spy,beast,16.02
+55,Tyler,70,male,amanda97,drow,fiend (demon),11.1
+56,Brendan,51,male,jacqueline43,owlbear,beast,10.23
+57,Zachary,29,male,bethanybailey,darkling-elder,monstrosity,7.61
+58,William,25,male,ytapia,imix,humanoid (tortle),19.71
+59,Scott,16,male,ricardocunningham,swarm-of-poisonous-snakes,elemental,5.18
+60,Brian,49,male,vargasdiana,darkling-elder,giant,2.44
+61,Charles,73,male,marysanders,owlbear,elemental,3.39
+62,Carl,74,male,bethanybailey,shadow-demon,fiend,11.08
+63,John,78,male,michelle32,warhorse-skeleton,"monstrosity (shapechanger, yuan-ti)",16.69
+64,Sean,5,male,clawrence,young-kruthik,humanoid (any race),6.19
+65,Shawn,41,male,jacqueline43,minotaur-skeleton,plant,9.96
+66,Alex,5,male,gramirez,minotaur-skeleton,dragon,3.16
+67,Richard,36,male,carrie58,young-kruthik,beast,11.64
+68,Daniel,15,male,richardsonlaura,tyrannosaurus-rex,monstrosity,1.53
+69,Erik,30,male,bethanybailey,shadow-demon,fey,4.87
+70,David,22,male,connerruth,spy,dragon,1.71
+71,Terry,54,male,jhernandez,young-kruthik,beast,15.95
+72,Jeff,73,male,robert10,minotaur-skeleton,humanoid (any race),3.76
+73,William,36,male,zestrada,magmin,dragon,1.56
+74,Edward,8,male,williamsfrederick,minotaur-skeleton,aberration,8.51
+75,Ian,36,male,barnettbruce,wight,humanoid (any race),6.66
+76,David,35,male,richardsonlaura,tyrannosaurus-rex,"monstrosity (shapechanger, yuan-ti)",10.87
+77,Erik,31,male,myersmark,shadow-demon,undead,8.32
+78,Daniel,10,male,ytapia,owlbear,humanoid (any race),2.43
+79,Eric,79,male,gaillowe,magmin,monstrosity,12.99
+80,Patrick,25,male,iswanson,owlbear,elemental,12.7
+81,Joseph,16,male,trevorwilliams,archmage,humanoid (grimlock),17.4
+82,William,8,male,joelsalinas,swarm-of-poisonous-snakes,fey,3.4
+83,Joseph,65,male,jonesmiguel,shadow-demon,undead,10.63
+84,Nicholas,49,male,manueladams,magmin,elemental,6.45
+85,David,67,male,wleonard,young-kruthik,humanoid (gnoll),9.09
+86,Tyler,41,male,schmidtmary,darkling-elder,giant,8.76
+87,Michael,80,male,carrie58,magmin,humanoid (lizardfolk),13.55
+88,Cody,44,male,zestrada,young-kruthik,humanoid (any race),8.49
+89,Lee,39,male,ytapia,owlbear,humanoid (derro),6.28
+90,Andrew,37,male,tina44,spy,dragon,11.69
+91,Grant,60,male,william41,shadow-demon,monstrosity,19.29
+92,Jose,59,male,joelsalinas,bugbear-chief,humanoid (sahuagin),1.91
+93,Levi,17,male,jessica82,imix,humanoid (any race),15.88
+94,Jesse,54,male,brittney82,minotaur-skeleton,undead,1.9
+95,Bryce,26,male,oscarsmith,hobgoblin-warlord,undead,18.6
+96,Brad,69,male,clawrence,swarm-of-poisonous-snakes,beast,7.73
+97,Matthew,71,male,johnsonvicki,hobgoblin-warlord,"monstrosity (shapechanger, yuan-ti)",12.24
+98,Mark,70,male,jonesmiguel,werewolf,monstrosity,10.51
+99,Joseph,12,male,leeolivia,bugbear-chief,beast,1.63
+100,Brian,22,male,patelkathy,imix,plant,6.81
+101,Franklin,56,male,jonathan09,owlbear,fiend (demon),2.81
+102,Thomas,71,male,christophercarter,minotaur-skeleton,humanoid,8.41
+103,Derrick,35,male,lozanoandrew,bugbear-chief,humanoid,2.16
+104,Wesley,47,male,kimberlyyoung,shadow-demon,"fiend (demon, shapechanger)",3.97
+105,James,21,male,jacqueline43,giant-constrictor-snake,swarm of Tiny beasts,17.74
+106,Jason,25,male,tina44,shadow-demon,humanoid (troglodyte),8.47
+107,Alexander,75,male,robert10,hobgoblin-warlord,celestial,11.62
+108,Daniel,4,male,luislane,shadow-demon,humanoid (yuan-ti),17.41
+109,Matthew,22,male,robin86,swarm-of-poisonous-snakes,humanoid (elf),3.83
+110,Justin,11,male,greenemichelle,warhorse-skeleton,fiend (devil),4.19
+111,Richard,57,male,taylorrebecca,magmin,ooze,1.64
+112,Arthur,56,male,vargasdiana,mummy-lord,fiend (devil),13.59
+113,Arthur,8,male,cortiz,wight,monstrosity,5.02
+114,Jaime,27,male,knguyen,minotaur-skeleton,monstrosity,8.1
+115,Mitchell,36,male,barnettbruce,swarm-of-poisonous-snakes,humanoid (any race),14.47
+116,John,44,male,jessica82,imix,"monstrosity (shapechanger, yuan-ti)",1.52
+117,Matthew,77,male,robin86,drow,fiend (devil),13.8
+118,Aaron,68,male,robert10,imix,fiend,14.31
+119,Rodney,27,male,clawrence,hobgoblin-warlord,elemental,16.13
+120,Manuel,55,male,linda70,werewolf,aberration,3.33
+121,Michael,43,male,garydavies,warhorse-skeleton,fiend (devil),16.62
+122,Sean,55,male,uharris,swarm-of-poisonous-snakes,fiend (demon),1.94
+123,Robert,61,male,christophercarter,archmage,swarm of Tiny beasts,2.29
+124,Bryan,28,male,ytapia,darkling-elder,fiend (demon),12.8
+125,Donald,74,male,oscarsmith,tyrannosaurus-rex,aberration,10.46
+126,Justin,64,male,gramirez,spy,humanoid (kuo-toa),12.1
+127,Tracy,71,male,gonzalezveronica,mummy-lord,humanoid (goblinoid),10.45
+128,David,64,male,gomezeric,spy,plant,12.19
+129,Edward,17,male,myersmark,galeb-duhr,plant,15.57
+130,Richard,72,male,sheilabarker,darkling-elder,monstrosity (shapechanger),7.24
+131,Arthur,48,male,sheilabarker,giant-constrictor-snake,beast,12.01
+132,Patrick,74,male,trevorwilliams,bugbear-chief,plant,8.21
+133,Eddie,59,male,myersmark,magmin,monstrosity,1.79
+134,Michael,39,male,brittney82,archmage,humanoid (any race),14.64
+135,Glenn,25,male,kimberlyyoung,mummy-lord,humanoid (any race),6.33
+136,John,23,male,amanda97,drow,monstrosity,10.34
+137,Mark,14,male,nbernard,werewolf,aberration,12.58
+138,Andrew,34,male,cortiz,mummy-lord,humanoid (human),12.12
+139,Jason,71,male,ghumphrey,drow,aberration,12.57
+140,Stephen,72,male,jonesmiguel,shadow-demon,humanoid (any race),1.65
+141,Patrick,17,male,oscarsmith,werewolf,humanoid (elf),3.15
+142,Daniel,62,male,jonesmiguel,darkling-elder,humanoid (human),2.93
+143,Nicholas,38,male,clawrence,warhorse-skeleton,beast,7.03
+144,Richard,46,male,hscott,bugbear-chief,humanoid (any race),6.51
+145,Adam,70,male,trevorwilliams,werewolf,beast,17.23
+146,Steven,74,male,nbernard,minotaur-skeleton,humanoid (any race),9.95
+147,Joseph,69,male,jonesmiguel,werewolf,beast,4.72
+148,Martin,29,male,richardsonlaura,giant-constrictor-snake,humanoid (gnoll),1.17
+149,John,49,male,carlawatson,wight,giant,12.67
+150,Dominic,39,male,amanda97,bugbear-chief,humanoid (orc),5.68
+151,Nicholas,24,male,brandy94,hobgoblin-warlord,humanoid (any race),3.6
+152,Zachary,6,male,sheilabarker,minotaur-skeleton,beast,15.38
+153,Kevin,58,male,johnsonvicki,spy,humanoid (elf),6.32
+154,Anthony,15,male,stephanieharris,archmage,beast,17.06
+155,Larry,15,male,jacqueline43,young-kruthik,humanoid (human),5.06
+156,Jay,76,male,schmidtmary,young-kruthik,undead,16.89
+157,Trevor,77,male,williamsfrederick,young-kruthik,humanoid (any race),4.24
+158,Jeremy,40,male,gomezeric,tyrannosaurus-rex,humanoid (gnoll),17.91
+159,William,15,male,glopez,giant-constrictor-snake,dragon,1.98
+160,Steven,77,male,manueladams,owlbear,fiend (demon),18.96
+161,Andrew,12,male,hscott,werewolf,beast,3.97
+162,Mark,17,male,connerruth,giant-constrictor-snake,fey,14.45
+163,Dennis,14,male,williamsfrederick,hobgoblin-warlord,fiend (devil),9.59
+164,Daniel,46,male,barnettbruce,tyrannosaurus-rex,humanoid (gith),17.08
+165,Larry,19,male,sheilabarker,warhorse-skeleton,humanoid (gith),16.01
+166,Theodore,34,male,connerruth,drow,"humanoid (human, shapechanger)",17.24
+167,Robert,5,male,glopez,darkling-elder,humanoid (sahuagin),5.44
+168,Alexander,32,male,manueladams,spy,monstrosity,4.83
+169,Matthew,65,male,ryan81,archmage,beast,18.28
+170,Nicholas,15,male,paynejennifer,owlbear,giant (stone giant),11.4
+171,George,75,male,ytapia,minotaur-skeleton,undead,7.85
+172,Timothy,11,male,johnsonvicki,swarm-of-poisonous-snakes,humanoid (gith),19.77
+173,William,59,male,knguyen,hobgoblin-warlord,monstrosity,14.64
+174,Bobby,50,male,greenemichelle,warhorse-skeleton,fey (elf),11.21
+175,Brian,6,male,nbernard,magmin,construct,16.1
+176,Jesse,62,male,linda70,hobgoblin-warlord,giant,2.66
+177,Andres,35,male,paynejennifer,mummy-lord,humanoid (elf),14.71
+178,Jamie,48,male,linda70,shadow-demon,beast,10.38
+179,James,75,male,marysanders,galeb-duhr,humanoid (kobold),9.82
+180,Rodney,40,male,brandy94,hobgoblin-warlord,plant,8.45
+181,Paul,77,male,edwardstricia,tyrannosaurus-rex,elemental,8.95
+182,Nicholas,71,male,manueladams,minotaur-skeleton,undead (titan),3.99
+183,Matthew,15,male,christophercarter,owlbear,humanoid (grimlock),10.88
+184,Rodney,58,male,joelsalinas,imix,ooze,13.19
+185,George,73,male,jhernandez,minotaur-skeleton,beast,19.91
+186,Antonio,55,male,oscarsmith,darkling-elder,humanoid (human),6.3
+187,Jason,34,male,nbernard,young-kruthik,humanoid (dwarf),15.77
+188,Jason,34,male,kimberlyyoung,tyrannosaurus-rex,elemental,9.7
+189,Matthew,70,male,linda70,shadow-demon,undead (shapechanger),4.91
+190,Jeremy,61,male,gonzalezveronica,darkling-elder,fiend (gnoll),16.17
+191,Wayne,58,male,williamsfrederick,drow,monstrosity,8.21
+192,Michael,34,male,michelle32,minotaur-skeleton,humanoid (any race),16.4
+193,Jorge,51,male,lee93,swarm-of-poisonous-snakes,beast,3.5
+194,Jack,43,male,myersmark,bugbear-chief,monstrosity,9.12
+195,Jonathan,12,male,clawrence,wight,fiend (demon),9.52
+196,Travis,32,male,uharris,owlbear,beast,10.01
+197,Kenneth,68,male,trevorwilliams,spy,dragon,11.92
+198,Gabriel,51,male,uharris,shadow-demon,undead,3.73
+199,Victor,54,male,myersmark,owlbear,fiend (demon),12.64
+200,Keith,56,male,ricardocunningham,drow,monstrosity,2.0
+201,John,22,male,robin86,galeb-duhr,humanoid (any race),16.08
+202,Scott,71,male,brandy94,magmin,construct,12.88
+203,Derrick,44,male,knguyen,archmage,humanoid (human),11.73
+204,Ian,53,male,bethanybailey,hobgoblin-warlord,humanoid (orc),1.16
+205,John,9,male,taylorrebecca,minotaur-skeleton,humanoid (gith),8.3
+206,Wesley,76,male,wleonard,drow,humanoid (orc),3.2
+207,Charles,30,male,leeolivia,young-kruthik,humanoid (any race),12.21
+208,Tyler,8,male,gonzalezveronica,imix,undead (shapechanger),10.67
+209,Sean,41,male,zestrada,imix,fiend,16.47
+210,Donald,16,male,williamsfrederick,werewolf,beast,16.18
+211,Scott,46,male,linda70,imix,fiend (devil),5.18
+212,Terry,78,male,heather05,hobgoblin-warlord,monstrosity,15.25
+213,Stephen,74,male,garydavies,werewolf,construct,13.72
+214,Jesus,75,male,linda70,hobgoblin-warlord,beast,17.16
+215,Kent,47,male,leeolivia,archmage,fey (elf),4.17
+216,Derrick,43,male,williamsfrederick,young-kruthik,giant,19.02
+217,Brandon,62,male,amanda97,warhorse-skeleton,undead,7.76
+218,Kenneth,69,male,christophercarter,giant-constrictor-snake,humanoid (any race),8.67
+219,Russell,21,male,jessica82,galeb-duhr,beast,17.39
+220,John,18,male,kimberlyyoung,werewolf,construct,13.47
+221,Frank,14,male,connerruth,mummy-lord,humanoid (kuo-toa),19.07
+222,Joseph,42,male,jacqueline43,minotaur-skeleton,dragon,5.31
+223,Brian,24,male,maryhall,werewolf,construct,12.98
+224,Joshua,26,male,jhernandez,hobgoblin-warlord,plant,14.71
+225,David,77,male,gomezeric,spy,giant,18.7
+226,Daniel,38,male,glopez,hobgoblin-warlord,fiend (demon),13.63
+227,Brendan,60,male,leeolivia,archmage,ooze,11.33
+228,Robert,80,male,jhernandez,giant-constrictor-snake,humanoid (elf),14.25
+229,Randy,4,male,vargasdiana,darkling-elder,plant,19.3
+230,Mitchell,67,male,nbernard,spy,swarm of Tiny beasts,11.42
+231,Scott,7,male,sheilabarker,young-kruthik,beast,15.89
+232,Robert,55,male,ryan81,galeb-duhr,humanoid (shapechanger),8.46
+233,Michael,77,male,sheilabarker,galeb-duhr,giant,15.23
+234,Craig,3,male,johnsonvicki,wight,fey,4.33
+235,Ruben,42,male,cortiz,imix,aberration,7.3
+236,William,34,male,carrie58,werewolf,aberration,11.65
+237,Stanley,77,male,iswanson,swarm-of-poisonous-snakes,monstrosity,13.37
+238,Phillip,33,male,vargasdiana,galeb-duhr,monstrosity,19.31
+239,Matthew,20,male,kimberlyyoung,spy,undead,12.78
+240,Gregory,31,male,schmidtmary,young-kruthik,swarm of Tiny beasts,18.36
+241,Douglas,6,male,lozanoandrew,drow,humanoid (any race),11.53
+242,Jose,74,male,leeolivia,bugbear-chief,humanoid (any race),18.01
+243,Matthew,13,male,heather05,wight,plant,4.31
+244,Andrew,75,male,hscott,hobgoblin-warlord,humanoid (dwarf),15.19
+245,John,43,male,knguyen,wight,monstrosity,4.04
+246,Andrew,36,male,bethanybailey,spy,fiend (demon),16.22
+247,Alexander,48,male,heather05,archmage,beast,17.7
+248,Brian,50,male,christophercarter,owlbear,beast,1.21
+249,Steven,10,male,leeolivia,imix,beast,16.1
+250,Christopher,56,male,johnsonvicki,tyrannosaurus-rex,swarm of Tiny beasts,4.82
+251,Joseph,22,male,william41,darkling-elder,beast,9.42
+252,Jeffrey,22,male,manueladams,wight,monstrosity,11.2
+253,Kyle,79,male,uharris,archmage,beast,11.73
+254,Robert,26,male,lozanoandrew,warhorse-skeleton,humanoid (any race),15.81
+255,Christopher,64,male,leeolivia,tyrannosaurus-rex,fey,6.95
+256,Johnathan,49,male,iswanson,magmin,beast,3.62
+257,Benjamin,66,male,bethanybailey,hobgoblin-warlord,undead,17.57
+258,William,18,male,trevorwilliams,wight,humanoid (elf),1.05
+259,Billy,65,male,bethanybailey,wight,humanoid (orc),1.58
+260,Craig,58,male,stephanieharris,imix,aberration,13.11
+261,Jesus,27,male,brittney82,young-kruthik,humanoid (dwarf),7.6
+262,Joel,16,male,jacqueline43,hobgoblin-warlord,plant,12.92
+263,Brian,22,male,iswanson,swarm-of-poisonous-snakes,beast,14.14
+264,Michael,6,male,schmidtmary,owlbear,plant,14.11
+265,James,27,male,jacqueline43,warhorse-skeleton,beast,11.47
+266,Thomas,50,male,sheilabarker,magmin,fey (elf),12.96
+267,Douglas,43,male,nbernard,darkling-elder,dragon,2.94
+268,Benjamin,77,male,nbernard,tyrannosaurus-rex,humanoid (any race),1.05
+269,Tyler,12,male,myersmark,magmin,humanoid (goblinoid),18.08
+270,Andrew,13,male,ytapia,young-kruthik,aberration,18.78
+271,Joseph,50,male,carlawatson,swarm-of-poisonous-snakes,fiend (demon),1.16
+272,Eric,16,male,connerruth,magmin,fiend (devil),14.98
+273,Shaun,75,male,ryan81,werewolf,beast,3.94
+274,Christian,29,male,jhernandez,wight,humanoid (any race),1.26
+275,David,80,male,cortiz,young-kruthik,fey,5.63
+276,Michael,47,male,maryhall,darkling-elder,fiend (demon),17.18
+277,Joseph,23,male,carlawatson,swarm-of-poisonous-snakes,fiend (demon),3.33
+278,Frederick,70,male,nbernard,swarm-of-poisonous-snakes,humanoid (any race),17.69
+279,David,71,male,garydavies,drow,aberration,16.17
+280,Jeremy,45,male,bethanybailey,imix,"monstrosity (shapechanger, yuan-ti)",8.34
+281,Joseph,44,male,brittney82,owlbear,monstrosity,6.86
+282,Timothy,44,male,marysanders,warhorse-skeleton,fiend (devil),12.55
+283,James,60,male,wleonard,warhorse-skeleton,plant,13.05
+284,Bruce,73,male,johnsonvicki,swarm-of-poisonous-snakes,"monstrosity (shapechanger, yuan-ti)",2.09
+285,Thomas,18,male,ytapia,imix,aberration,18.37
+286,Robert,51,male,ryan81,bugbear-chief,dragon,12.94
+287,Michael,55,male,manueladams,bugbear-chief,beast,5.36
+288,Antonio,43,male,barnettbruce,werewolf,fiend (demon),2.71
+289,Kenneth,42,male,maryhall,werewolf,fiend (yugoloth),1.79
+290,James,12,male,linda70,tyrannosaurus-rex,humanoid (any race),17.7
+291,David,70,male,kennethwilkinson,minotaur-skeleton,fiend (demon),2.57
+292,Steven,37,male,paynejennifer,mummy-lord,plant,3.0
+293,Paul,79,male,schmidtmary,darkling-elder,undead,15.15
+294,Robert,9,male,kimberlyyoung,giant-constrictor-snake,beast,18.48
+295,Colton,14,male,lozanoandrew,drow,monstrosity,10.48
+296,Chad,10,male,marysanders,archmage,beast,4.53
+297,Timothy,68,male,ytapia,imix,humanoid (elf),11.09
+298,Michael,36,male,robert10,bugbear-chief,beast,19.57
+299,Adrian,28,male,connerruth,owlbear,humanoid (grung),3.23
+300,Eric,18,male,greenemichelle,hobgoblin-warlord,humanoid (elf),17.16
+301,Joseph,16,male,kimberlyyoung,wight,undead,17.69
+302,Carlos,21,male,schmidtmary,shadow-demon,undead,8.62
+303,Keith,74,male,jessica82,tyrannosaurus-rex,dragon,1.99
+304,Edward,80,male,jonathan09,magmin,beast,10.62
+305,Ethan,75,male,uharris,bugbear-chief,aberration,13.89
+306,Jerry,49,male,jessica82,swarm-of-poisonous-snakes,humanoid (human),14.09
+307,David,28,male,barnettbruce,owlbear,dragon,4.37
+308,Philip,23,male,bethanybailey,spy,celestial,9.2
+309,Joshua,13,male,sheilabarker,spy,humanoid (any race),16.76
+310,Jeffrey,77,male,lozanoandrew,swarm-of-poisonous-snakes,elemental,18.49
+311,Cesar,54,male,paynejennifer,archmage,dragon,10.91
+312,Evan,7,male,sheilabarker,swarm-of-poisonous-snakes,construct (inevitable),2.97
+313,Charles,53,male,brittney82,imix,aberration,12.24
+314,Robert,61,male,jonathan09,darkling-elder,giant,8.11
+315,Gary,21,male,hscott,tyrannosaurus-rex,monstrosity,14.24
+316,Christopher,46,male,ricardocunningham,archmage,"humanoid (human, shapechanger)",1.51
+317,Daniel,26,male,heather05,mummy-lord,construct,14.29
+318,David,19,male,kennethwilkinson,bugbear-chief,undead,17.86
+319,Isaac,16,male,uharris,swarm-of-poisonous-snakes,elemental,13.98
+320,Robert,25,male,jonathan09,hobgoblin-warlord,humanoid (elf),8.99
+321,Mark,24,male,iswanson,magmin,humanoid (any race),11.65
+322,Duane,31,male,garydavies,giant-constrictor-snake,beast,9.67
+323,William,17,male,garydavies,galeb-duhr,beast,3.67
+324,Joseph,20,male,marysanders,darkling-elder,humanoid (gith),19.57
+325,Bobby,40,male,linda70,drow,beast,8.8
+326,James,9,male,lozanoandrew,werewolf,undead,2.9
+327,James,18,male,taylorrebecca,warhorse-skeleton,celestial,4.1
+328,Danny,75,male,sheilabarker,werewolf,undead,11.7
+329,Ryan,55,male,carlawatson,tyrannosaurus-rex,beast,19.41
+330,Ian,20,male,gramirez,young-kruthik,fiend (devil),19.3
+331,David,77,male,wleonard,giant-constrictor-snake,monstrosity,2.1
+332,Chad,3,male,jonathan09,young-kruthik,dragon,1.37
+333,Chad,71,male,tina44,werewolf,beast,17.42
+334,Vincent,74,male,williamsfrederick,warhorse-skeleton,humanoid (any race),4.46
+335,Scott,38,male,amanda97,bugbear-chief,dragon,7.92
+336,Jesus,79,male,hscott,magmin,humanoid (nagpa),12.18
+337,Jeffrey,13,male,knguyen,warhorse-skeleton,construct,15.0
+338,James,68,male,brittney82,werewolf,construct,3.64
+339,James,47,male,garydavies,warhorse-skeleton,humanoid (goblinoid),17.4
+340,Benjamin,28,male,heather05,werewolf,humanoid (lizardfolk),19.3
+341,Eric,8,male,gomezeric,werewolf,humanoid (human),16.42
+342,Larry,5,male,gramirez,minotaur-skeleton,undead,17.53
+343,Anthony,22,male,jacqueline43,imix,elemental,18.2
+344,Angel,50,male,stephanieharris,drow,dragon,16.6
+345,Michael,11,male,marysanders,darkling-elder,monstrosity,16.6
+346,Barry,21,male,tina44,wight,plant,6.06
+347,Mitchell,38,male,leeolivia,young-kruthik,dragon,5.42
+348,David,26,male,johnsonvicki,mummy-lord,humanoid (gith),16.33
+349,Cody,44,male,uharris,owlbear,beast,19.69
+350,Michael,77,male,myersmark,galeb-duhr,humanoid (orc),1.96
+351,Billy,28,male,amanda97,young-kruthik,beast,5.94
+352,Paul,71,male,knguyen,archmage,beast,11.44
+353,Paul,63,male,christophercarter,bugbear-chief,undead,2.4
+354,Kevin,28,male,kimberlyyoung,owlbear,aberration,4.42
+355,Jacob,50,male,nbernard,galeb-duhr,humanoid (orc),7.85
+356,Charles,21,male,uharris,wight,humanoid (gith),18.91
+357,Jeremy,53,male,gomezeric,spy,humanoid (any race),16.01
+358,Brett,38,male,glopez,owlbear,humanoid (elf),7.73
+359,Randall,68,male,ytapia,wight,beast,5.53
+360,Jeremy,70,male,robert10,hobgoblin-warlord,plant,12.09
+361,John,54,male,johnsonvicki,bugbear-chief,humanoid (any race),4.76
+362,Jeremy,51,male,ryan81,hobgoblin-warlord,beast,13.83
+363,Joseph,33,male,manueladams,minotaur-skeleton,aberration,9.86
+364,Charles,32,male,myersmark,darkling-elder,humanoid (any race),11.46
+365,Joseph,41,male,leeolivia,drow,monstrosity,13.6
+366,William,20,male,clawrence,wight,monstrosity,18.6
+367,Robert,77,male,richardsonlaura,spy,dragon,4.53
+368,Daniel,78,male,garydavies,drow,fey (elf),17.44
+369,Tristan,50,male,bethanybailey,hobgoblin-warlord,fiend (demon),5.95
+370,Jonathan,46,male,glopez,imix,beast,15.95
+371,David,32,male,marysanders,drow,beast,9.05
+372,Stephen,6,male,patelkathy,swarm-of-poisonous-snakes,humanoid (orc),2.37
+373,Cameron,61,male,luislane,warhorse-skeleton,aberration (shapechanger),9.73
+374,Henry,80,male,stephanieharris,magmin,dragon,13.04
+375,Aaron,60,male,tina44,darkling-elder,giant,10.23
+376,Scott,16,male,jacqueline43,giant-constrictor-snake,swarm of Tiny beasts,11.62
+377,Angel,17,male,vargasdiana,wight,construct,19.13
+378,Charles,70,male,kennethwilkinson,owlbear,beast,6.25
+379,Ronald,19,male,wleonard,spy,giant,6.98
+380,Thomas,17,male,patelkathy,tyrannosaurus-rex,beast,13.28
+381,Peter,34,male,jessica82,archmage,dragon,15.07
+382,Daniel,8,male,brandy94,werewolf,beast,12.92
+383,Peter,4,male,gramirez,drow,construct,8.07
+384,Erik,16,male,linda70,minotaur-skeleton,humanoid (gith),2.57
+385,George,37,male,richardsonlaura,spy,fiend (demon),3.24
+386,Mark,66,male,tina44,young-kruthik,elemental,12.85
+387,James,6,male,robert10,werewolf,monstrosity,12.28
+388,Austin,60,male,vargasdiana,spy,beast,19.75
+389,Donald,20,male,barnettbruce,warhorse-skeleton,dragon,14.07
+390,Mario,32,male,gomezeric,hobgoblin-warlord,humanoid (tabaxi),17.93
+391,Steven,37,male,gramirez,owlbear,beast,9.21
+392,James,20,male,jonesmiguel,shadow-demon,beast,18.8
+393,Carlos,55,male,williamsfrederick,warhorse-skeleton,beast,12.97
+394,Andres,45,male,brittney82,young-kruthik,giant,8.89
+395,Roy,15,male,tina44,spy,"fiend (devil, shapechanger)",2.53
+396,Joseph,46,male,gomezeric,swarm-of-poisonous-snakes,plant,13.14
+397,Andrew,65,male,bethanybailey,minotaur-skeleton,giant (storm giant),9.3
+398,Christian,74,male,jonesmiguel,mummy-lord,fiend (devil),16.89
+399,Jeffrey,52,male,ryan81,archmage,beast,2.41
+400,Matthew,69,male,manueladams,imix,beast,16.34
+401,Joseph,37,male,lozanoandrew,drow,dragon,5.25
+402,Steven,79,male,ytapia,magmin,dragon,9.33
+403,Kent,11,male,brittney82,young-kruthik,giant,14.92
+404,Ryan,80,male,richardsonlaura,galeb-duhr,fiend (demon),16.44
+405,Ronald,66,male,barnettbruce,galeb-duhr,humanoid (any race),12.02
+406,Kevin,61,male,uharris,darkling-elder,humanoid (shapechanger),16.96
+407,Jeffrey,14,male,glopez,tyrannosaurus-rex,fiend (devil),1.71
+408,Eric,53,male,clawrence,swarm-of-poisonous-snakes,undead,6.26
+409,Erik,78,male,patelkathy,bugbear-chief,beast,10.44
+410,Logan,37,male,gomezeric,imix,monstrosity,10.67
+411,Nicholas,76,male,jessica82,drow,fiend (devil),17.74
+412,Nathaniel,26,male,ghumphrey,drow,humanoid (bullywug),15.13
+413,Christopher,73,male,carrie58,owlbear,beast,18.64
+414,Justin,3,male,heather05,shadow-demon,monstrosity,11.4
+415,Hunter,72,male,jessica82,werewolf,plant,2.69
+416,Jermaine,32,male,myersmark,owlbear,beast,13.47
+417,Travis,29,male,zestrada,darkling-elder,undead,13.27
+418,Zachary,80,male,kennethwilkinson,warhorse-skeleton,monstrosity,1.96
+419,Joseph,45,male,ryan81,shadow-demon,aberration,3.93
+420,Thomas,54,male,joelsalinas,hobgoblin-warlord,humanoid (elf),10.18
+421,Jermaine,30,male,hscott,giant-constrictor-snake,fiend (devil),16.48
+422,Lawrence,32,male,williamsfrederick,owlbear,fiend (demon),19.4
+423,Phillip,40,male,bethanybailey,giant-constrictor-snake,fiend (demon),4.75
+424,David,46,male,iswanson,bugbear-chief,undead,18.52
+425,Bruce,30,male,marysanders,minotaur-skeleton,fiend (demon),1.47
+426,Joseph,34,male,knguyen,darkling-elder,giant,2.37
+427,Daniel,12,male,jonathan09,mummy-lord,elemental,6.01
+428,Willie,32,male,taylorrebecca,magmin,humanoid (goblinoid),19.32
+429,Kyle,5,male,nbernard,imix,humanoid (merfolk),18.44
+430,Matthew,16,male,manueladams,spy,dragon,16.74
+431,Dennis,12,male,ghumphrey,warhorse-skeleton,fiend (devil),1.86
+432,Brian,28,male,joelsalinas,archmage,humanoid (shapechanger),5.58
+433,Robert,50,male,greenemichelle,mummy-lord,beast,15.17
+434,Timothy,65,male,lozanoandrew,shadow-demon,monstrosity,5.29
+435,Jacob,80,male,stephanieharris,bugbear-chief,giant,15.24
+436,Brett,30,male,ricardocunningham,tyrannosaurus-rex,humanoid (elf),12.19
+437,Steven,71,male,maryhall,galeb-duhr,celestial,17.11
+438,Jacob,25,male,william41,werewolf,giant,13.9
+439,Eric,54,male,brittney82,drow,dragon,15.32
+440,Oscar,4,male,carlawatson,tyrannosaurus-rex,undead,15.19
+441,Jeremy,63,male,myersmark,tyrannosaurus-rex,humanoid (any race),8.72
+442,Brian,39,male,johnsonvicki,shadow-demon,dragon,12.55
+443,Dustin,73,male,barnettbruce,magmin,elemental,14.83
+444,Mark,39,male,hscott,hobgoblin-warlord,beast,11.69
+445,Manuel,75,male,brittney82,imix,humanoid (any race),5.75
+446,Jonathan,72,male,nbernard,wight,plant,12.13
+447,Peter,71,male,gaillowe,young-kruthik,"monstrosity (shapechanger, yuan-ti)",16.55
+448,Timothy,36,male,tina44,owlbear,humanoid (any race),9.63
+449,Todd,44,male,tina44,spy,fiend (demon),15.35
+450,Scott,7,male,williamsfrederick,minotaur-skeleton,aberration,2.72
+451,Anthony,59,male,manueladams,swarm-of-poisonous-snakes,monstrosity,19.14
+452,Michael,41,male,kimberlyyoung,galeb-duhr,monstrosity,16.39
+453,Ryan,77,male,trevorwilliams,warhorse-skeleton,beast,2.5
+454,Travis,44,male,michelle32,shadow-demon,humanoid (thri-kreen),15.16
+455,Andrew,76,male,wleonard,minotaur-skeleton,humanoid (gnoll),19.61
+456,Ryan,63,male,ricardocunningham,swarm-of-poisonous-snakes,beast,8.93
+457,Neil,75,male,gramirez,young-kruthik,fiend (demon),15.75
+458,Mark,72,male,tina44,warhorse-skeleton,elemental,6.05
+459,Scott,46,male,gramirez,mummy-lord,beast,19.11
+460,Darrell,47,male,patelkathy,bugbear-chief,beast,5.66
+461,Stephen,34,male,hscott,imix,fiend (yugoloth),5.57
+462,Michael,63,male,myersmark,magmin,fey,12.31
+463,Richard,70,male,brittney82,drow,dragon,18.89
+464,Jonathan,73,male,johnsonvicki,archmage,beast,2.86
+465,Stephen,18,male,jonathan09,darkling-elder,elemental,15.46
+466,Kevin,56,male,heather05,galeb-duhr,beast,4.18
+467,Bryan,69,male,marysanders,swarm-of-poisonous-snakes,fiend (demon),8.88
+468,Daniel,16,male,edwardstricia,magmin,undead,6.97
+469,Gregory,36,male,sheilabarker,drow,humanoid (thri-kreen),14.44
+470,Jeffrey,45,male,marysanders,magmin,humanoid (any race),16.42
+471,Andres,67,male,trevorwilliams,wight,fiend,19.95
+472,Joshua,42,male,vargasdiana,swarm-of-poisonous-snakes,humanoid (any race),14.24
+473,Paul,18,male,jessica82,giant-constrictor-snake,undead,4.55
+474,Richard,41,male,jonathan09,swarm-of-poisonous-snakes,fey,2.99
+475,Jacob,23,male,oscarsmith,drow,humanoid (any race),3.66
+476,James,32,male,jhernandez,swarm-of-poisonous-snakes,beast,10.19
+477,Samuel,62,male,taylorrebecca,owlbear,dragon,10.16
+478,Francis,40,male,ryan81,mummy-lord,"monstrosity (shapechanger, yuan-ti)",2.28
+479,Christopher,27,male,bethanybailey,owlbear,beast,9.66
+480,Jason,22,male,maryhall,spy,dragon,1.91
+481,Adrian,78,male,ytapia,bugbear-chief,aberration,14.9
+482,John,12,male,richardsonlaura,young-kruthik,fiend (devil),19.12
+483,Joseph,16,male,paynejennifer,darkling-elder,fey,6.13
+484,Kenneth,22,male,barnettbruce,young-kruthik,giant,7.89
+485,Gordon,61,male,connerruth,werewolf,beast,16.83
+486,Trevor,68,male,ghumphrey,warhorse-skeleton,monstrosity,17.21
+487,Matthew,31,male,jonesmiguel,warhorse-skeleton,fey,10.25
+488,Joshua,69,male,wleonard,archmage,beast,1.41
+489,Jack,5,male,luislane,werewolf,humanoid (gith),18.86
+490,Nathaniel,23,male,edwardstricia,galeb-duhr,undead,6.01
+491,Clifford,54,male,heather05,young-kruthik,beast,8.06
+492,Raymond,17,male,luislane,young-kruthik,elemental,6.41
+493,Todd,58,male,joelsalinas,drow,elemental,10.37
+494,Michael,54,male,myersmark,mummy-lord,humanoid (elf),6.34
+495,Christopher,63,male,gomezeric,hobgoblin-warlord,fiend (devil),4.72
+496,Michael,64,male,connerruth,magmin,humanoid (any race),5.43
+497,Tyler,48,male,marysanders,young-kruthik,swarm of Tiny beasts,13.34
+498,Stephen,7,male,william41,archmage,fiend (devil),3.51
+499,Timothy,65,male,jonesmiguel,bugbear-chief,giant,2.49
+500,Rodney,43,male,schmidtmary,werewolf,beast,2.4
+501,Greg,78,male,wleonard,spy,fey (elf),11.86
+502,Kevin,38,male,edwardstricia,tyrannosaurus-rex,humanoid (any race),15.07
+503,Joseph,78,male,trevorwilliams,warhorse-skeleton,undead,9.5
+504,Brian,52,male,wleonard,minotaur-skeleton,giant,8.79
+505,Thomas,53,male,heather05,young-kruthik,aberration,15.02
+506,Johnathan,80,male,luislane,young-kruthik,humanoid (any race),19.72
+507,Mark,32,male,oscarsmith,young-kruthik,aberration,10.22
+508,Roberto,69,male,myersmark,mummy-lord,humanoid (any race),1.84
+509,Jeff,78,male,jacqueline43,wight,undead,6.8
+510,Richard,63,male,connerruth,giant-constrictor-snake,aberration,18.24
+511,Antonio,47,male,heather05,imix,beast,11.15
+512,Jason,37,male,patelkathy,spy,elemental,11.84
+513,William,64,male,amanda97,wight,dragon,5.12
+514,William,28,male,iswanson,bugbear-chief,fey,10.45
+515,Ryan,60,male,marysanders,owlbear,humanoid (tabaxi),12.88
+516,Jason,12,male,patelkathy,archmage,dragon,13.03
+517,Michael,31,male,trevorwilliams,giant-constrictor-snake,humanoid (elf),7.14
+518,Tony,70,male,lozanoandrew,shadow-demon,beast,16.95
+519,Matthew,30,male,paynejennifer,owlbear,humanoid (orc),17.59
+520,Larry,74,male,greenemichelle,drow,fiend (shapechanger),3.95
+521,Gary,76,male,leeolivia,young-kruthik,humanoid (any race),5.73
+522,Joseph,52,male,hscott,darkling-elder,humanoid,14.43
+523,Brian,37,male,jonathan09,young-kruthik,"fiend (demon, shapechanger)",7.23
+524,Cody,28,male,johnsonvicki,swarm-of-poisonous-snakes,fiend (demon),9.9
+525,Robert,3,male,jessica82,bugbear-chief,undead,19.56
+526,Dustin,21,male,leeolivia,swarm-of-poisonous-snakes,giant,18.36
+527,Ricardo,26,male,leeolivia,bugbear-chief,humanoid (any race),14.31
+528,Ryan,54,male,ricardocunningham,darkling-elder,aberration,9.56
+529,Michael,20,male,marysanders,wight,"monstrosity (shapechanger, yuan-ti)",6.27
+530,Robert,27,male,schmidtmary,swarm-of-poisonous-snakes,monstrosity,10.59
+531,Nathan,9,male,glopez,wight,fiend,11.26
+532,Scott,33,male,gaillowe,hobgoblin-warlord,monstrosity,3.04
+533,Billy,40,male,johnsonvicki,minotaur-skeleton,monstrosity,4.59
+534,Donald,45,male,patelkathy,spy,beast,8.86
+535,Travis,15,male,clawrence,tyrannosaurus-rex,monstrosity,8.18
+536,Christopher,3,male,knguyen,spy,humanoid (gnome),2.91
+537,Jonathan,43,male,nbernard,tyrannosaurus-rex,humanoid (any race),19.49
+538,Sean,52,male,schmidtmary,archmage,beast,1.09
+539,Mark,27,male,william41,bugbear-chief,fiend (demon),19.36
+540,Christopher,50,male,iswanson,wight,dragon,11.57
+541,Anthony,73,male,wleonard,swarm-of-poisonous-snakes,aberration,18.21
+542,William,52,male,ryan81,young-kruthik,monstrosity,17.13
+543,Matthew,5,male,gonzalezveronica,spy,monstrosity,19.1
+544,James,26,male,johnsonvicki,archmage,fiend (demon),7.15
+545,Matthew,57,male,connerruth,darkling-elder,dragon,2.7
+546,Antonio,74,male,lee93,minotaur-skeleton,giant (hill giant),5.81
+547,Mark,26,male,kimberlyyoung,owlbear,humanoid (kobold),13.84
+548,Ryan,54,male,marysanders,drow,aberration,10.7
+549,Francisco,69,male,wleonard,spy,humanoid (any race),1.28
+550,Edward,4,male,michelle32,warhorse-skeleton,aberration,10.89
+551,Harry,59,male,linda70,bugbear-chief,fiend (demon),2.31
+552,Bruce,73,male,schmidtmary,wight,beast,16.35
+553,Kevin,66,male,amanda97,galeb-duhr,beast,9.86
+554,Marc,57,male,brandy94,magmin,beast,16.87
+555,Kurt,31,male,barnettbruce,owlbear,dragon,3.41
+556,Martin,62,male,lee93,archmage,humanoid (human),12.98
+557,Jay,42,male,myersmark,galeb-duhr,swarm of Tiny beasts,16.6
+558,John,78,male,myersmark,imix,giant (cloud giant),12.54
+559,Andrew,54,male,gonzalezveronica,shadow-demon,beast,11.95
+560,Jimmy,80,male,johnsonvicki,hobgoblin-warlord,humanoid (any race),8.89
+561,Kevin,71,male,knguyen,bugbear-chief,humanoid (meazel),3.9
+562,Andrew,7,male,myersmark,minotaur-skeleton,construct,15.59
+563,Robert,6,male,cortiz,swarm-of-poisonous-snakes,humanoid (any race),5.84
+564,Benjamin,25,male,jacqueline43,swarm-of-poisonous-snakes,fey (elf),3.5
+565,Jeremiah,43,male,gaillowe,swarm-of-poisonous-snakes,construct,4.21
+566,Tyler,11,male,marysanders,galeb-duhr,humanoid (any race),4.79
+567,Benjamin,7,male,maryhall,galeb-duhr,plant,16.51
+568,David,56,male,sheilabarker,tyrannosaurus-rex,"fiend (demon, shapechanger)",8.67
+569,Matthew,47,male,schmidtmary,warhorse-skeleton,undead,5.93
+570,Steven,65,male,schmidtmary,wight,undead,19.85
+571,Shawn,22,male,carrie58,bugbear-chief,humanoid (any race),19.18
+572,Jeffrey,27,male,william41,minotaur-skeleton,humanoid (kobold),16.2
+573,Alvin,52,male,maryhall,minotaur-skeleton,celestial,3.16
+574,Joshua,61,male,iswanson,wight,celestial,16.65
+575,Raymond,35,male,jonesmiguel,werewolf,plant,13.98
+576,Curtis,70,male,edwardstricia,giant-constrictor-snake,dragon,4.4
+577,Scott,33,male,sheilabarker,hobgoblin-warlord,fiend (devil),15.7
+578,Edward,23,male,tina44,darkling-elder,monstrosity,13.82
+579,Ronnie,5,male,zestrada,wight,undead,13.79
+580,Matthew,30,male,gramirez,owlbear,monstrosity,18.32
+581,David,65,male,nbernard,tyrannosaurus-rex,humanoid (human),3.95
+582,Marcus,12,male,heather05,hobgoblin-warlord,construct,14.65
+583,Joshua,63,male,joelsalinas,owlbear,fiend,5.67
+584,Christopher,61,male,gramirez,drow,elemental,14.41
+585,Michael,47,male,jonathan09,shadow-demon,beast,13.66
+586,Anthony,41,male,barnettbruce,werewolf,humanoid (goblinoid),6.95
+587,Robert,8,male,jonathan09,galeb-duhr,fey (elf),7.67
+588,Brent,3,male,luislane,wight,monstrosity,6.7
+589,Kenneth,4,male,tina44,minotaur-skeleton,beast,17.78
+590,Stanley,31,male,williamsfrederick,magmin,fey (elf),18.32
+591,Brett,13,male,uharris,swarm-of-poisonous-snakes,elemental,8.9
+592,Angel,43,male,kennethwilkinson,wight,humanoid (any race),6.48
+593,Darrell,17,male,lozanoandrew,wight,monstrosity,6.24
+594,Alexis,31,male,paynejennifer,galeb-duhr,monstrosity,4.13
+595,Jason,54,male,maryhall,minotaur-skeleton,beast,18.95
+596,Michael,41,male,marysanders,wight,dragon,1.74
+597,Gary,47,male,jacqueline43,warhorse-skeleton,elemental,3.18
+598,Gregory,14,male,lee93,drow,humanoid (human),14.89
+599,Roberto,75,male,lee93,drow,humanoid (any race),12.85
+600,Christian,17,male,manueladams,shadow-demon,humanoid (any race),16.16
+601,Joel,50,male,robin86,minotaur-skeleton,monstrosity (titan),14.88
+602,Gregory,61,male,heather05,magmin,plant,18.26
+603,Harold,51,male,ricardocunningham,werewolf,monstrosity,5.82
+604,Michael,62,male,sheilabarker,wight,monstrosity,1.32
+605,Richard,63,male,heather05,shadow-demon,construct,4.54
+606,Bryan,6,male,taylorrebecca,owlbear,beast,6.29
+607,Joel,11,male,johnsonvicki,owlbear,humanoid (any race),6.53
+608,Derek,53,male,robin86,shadow-demon,beast,16.25
+609,Alan,68,male,jacqueline43,giant-constrictor-snake,humanoid (dwarf),1.54
+610,John,79,male,patelkathy,magmin,fey (elf),19.27
+611,Jose,47,male,lozanoandrew,owlbear,humanoid (dwarf),16.75
+612,Jeremiah,47,male,hscott,shadow-demon,fiend (devil),3.49
+613,Tyler,75,male,robert10,imix,dragon,9.13
+614,William,34,male,robert10,archmage,construct,4.25
+615,Justin,65,male,stephanieharris,giant-constrictor-snake,giant,17.02
+616,Patrick,22,male,jessica82,wight,humanoid (any race),12.44
+617,David,21,male,connerruth,hobgoblin-warlord,humanoid (nagpa),19.6
+618,William,61,male,connerruth,warhorse-skeleton,humanoid (any race),2.16
+619,Donald,18,male,luislane,shadow-demon,monstrosity (shapechanger),8.53
+620,Eric,17,male,knguyen,mummy-lord,humanoid (goblinoid),10.22
+621,Jonathan,63,male,carlawatson,mummy-lord,dragon,3.68
+622,Kevin,29,male,barnettbruce,werewolf,fiend (yugoloth),10.63
+623,Jorge,62,male,taylorrebecca,spy,humanoid (any race),14.21
+624,Christopher,78,male,nbernard,wight,dragon,19.62
+625,Anthony,62,male,oscarsmith,minotaur-skeleton,construct,15.92
+626,Brandon,74,male,wleonard,archmage,humanoid (human),11.54
+627,Scott,43,male,joelsalinas,hobgoblin-warlord,dragon,6.06
+628,Robert,76,male,nbernard,giant-constrictor-snake,elemental,2.46
+629,Andrew,80,male,tina44,magmin,fiend (demon),8.53
+630,James,44,male,hscott,hobgoblin-warlord,beast,6.2
+631,Richard,75,male,sheilabarker,magmin,fiend (devil),9.22
+632,Gregory,10,male,gonzalezveronica,imix,fiend (devil),13.65
+633,Jonathan,76,male,cortiz,shadow-demon,fiend (yugoloth),6.26
+634,Mike,8,male,ricardocunningham,wight,humanoid (dwarf),18.71
+635,David,26,male,johnsonvicki,darkling-elder,monstrosity,2.35
+636,Daniel,16,male,paynejennifer,tyrannosaurus-rex,undead,10.97
+637,Richard,26,male,stephanieharris,giant-constrictor-snake,giant,7.85
+638,Richard,18,male,jonesmiguel,drow,elemental,8.75
+639,Joshua,28,male,jonesmiguel,hobgoblin-warlord,dragon,6.79
+640,Ronald,6,male,williamsfrederick,giant-constrictor-snake,monstrosity,14.03
+641,Jonathan,56,male,taylorrebecca,owlbear,beast,8.63
+642,Joshua,66,male,brandy94,owlbear,plant,17.58
+643,Jonathan,57,male,hscott,owlbear,elemental,15.47
+644,Bryan,31,male,trevorwilliams,imix,monstrosity,7.74
+645,Michael,55,male,michelle32,galeb-duhr,fiend (devil),19.78
+646,Jason,57,male,paynejennifer,bugbear-chief,humanoid (yuan-ti),12.13
+647,William,75,male,christophercarter,imix,monstrosity,3.07
+648,Tyrone,55,male,william41,archmage,monstrosity,2.35
+649,Blake,11,male,robin86,imix,dragon,3.56
+0,Michael,32,non-disclosed,rmatthews,tyrannosaurus-rex,undead,11.51
+1,Benjamin,76,non-disclosed,michaelhouse,tyrannosaurus-rex,humanoid (any race),6.2
+2,Reginald,65,non-disclosed,jennifer59,young-kruthik,dragon,3.9
+3,Joshua,61,non-disclosed,leonardmelissa,galeb-duhr,monstrosity (titan),3.13
+4,Michael,4,non-disclosed,michaelhouse,warhorse-skeleton,dragon,19.74
+5,Gregory,66,non-disclosed,omartinez,shadow-demon,dragon,16.66
+6,Paul,66,non-disclosed,rmatthews,mummy-lord,humanoid (orc),5.81
+7,Thomas,41,non-disclosed,jameshill,tyrannosaurus-rex,dragon,13.67
+8,Dale,61,non-disclosed,jennifer59,minotaur-skeleton,beast,15.29
+9,Dustin,29,non-disclosed,melanie87,hobgoblin-warlord,construct,14.26
+10,Samuel,32,non-disclosed,melanie87,spy,fiend (devil),4.65
+11,David,19,non-disclosed,dawn72,giant-constrictor-snake,aberration,7.92
+12,Christopher,80,non-disclosed,melanie87,galeb-duhr,undead,15.97
+13,Chad,26,non-disclosed,melanie87,werewolf,humanoid (human),10.87
+14,Jordan,25,non-disclosed,jennifer59,wight,beast,7.85
+15,Austin,12,non-disclosed,xthompson,tyrannosaurus-rex,humanoid (human),2.81
+16,Nicholas,77,non-disclosed,jameshill,werewolf,monstrosity,14.04
+17,Jonathan,19,non-disclosed,melanie87,warhorse-skeleton,celestial,16.89
+18,Jeffrey,32,non-disclosed,jameshill,tyrannosaurus-rex,elemental,7.3
+19,David,48,non-disclosed,xthompson,imix,elemental,7.81
+20,Christopher,78,non-disclosed,ccoffey,archmage,construct,15.73
+21,David,22,non-disclosed,rmatthews,warhorse-skeleton,dragon,5.95
+22,Jason,34,non-disclosed,xthompson,warhorse-skeleton,humanoid (sahuagin),3.01
+23,Joseph,48,non-disclosed,leonardmelissa,minotaur-skeleton,undead,7.93
+24,Hayden,70,non-disclosed,omartinez,wight,aberration,14.48
+25,Jordan,59,non-disclosed,michaelhouse,wight,beast,4.25
+26,Dennis,30,non-disclosed,rmatthews,darkling-elder,fiend,15.46
+27,Joseph,42,non-disclosed,jennifer59,young-kruthik,humanoid (orc),10.8
+28,Isaac,53,non-disclosed,ccoffey,drow,monstrosity,5.48
+29,Anthony,80,non-disclosed,melanie87,magmin,aberration,16.41
+30,Robert,70,non-disclosed,jameshill,spy,humanoid (goblinoid),11.0
+31,Samuel,39,non-disclosed,omartinez,hobgoblin-warlord,dragon,11.88
+32,Joseph,38,non-disclosed,ccoffey,tyrannosaurus-rex,humanoid (grung),17.98
+33,Brandon,44,non-disclosed,rmatthews,werewolf,construct,6.67
+34,Alexis,18,non-disclosed,ccoffey,minotaur-skeleton,humanoid (any race),5.22
+35,William,52,non-disclosed,dawn72,bugbear-chief,humanoid (sahuagin),3.58
+36,Richard,70,non-disclosed,michaelhouse,wight,celestial,15.08
+37,Michael,62,non-disclosed,jennifer59,spy,"humanoid (human, shapechanger)",11.38
+38,Craig,34,non-disclosed,rmatthews,wight,elemental,10.07
+39,James,61,non-disclosed,rmatthews,bugbear-chief,fiend (demon),1.44
+40,Charles,4,non-disclosed,rmatthews,swarm-of-poisonous-snakes,humanoid (any race),1.55
+41,Ronnie,15,non-disclosed,jennifer59,hobgoblin-warlord,humanoid (gith),4.52
+42,Jermaine,54,non-disclosed,jameshill,darkling-elder,fey,12.02
+43,William,24,non-disclosed,ccoffey,archmage,humanoid (lizardfolk),18.91
+44,Jonathan,16,non-disclosed,dawn72,mummy-lord,fiend (devil),13.06
+45,Jason,60,non-disclosed,ccoffey,darkling-elder,plant,4.52
+46,Donald,40,non-disclosed,omartinez,spy,beast,18.89
+47,Philip,30,non-disclosed,melanie87,galeb-duhr,construct,19.76
+48,Marcus,19,non-disclosed,xthompson,imix,undead,18.31
+49,Robert,16,non-disclosed,jennifer59,magmin,dragon,19.01
+50,Bryan,39,non-disclosed,jameshill,mummy-lord,aberration,14.74
+51,Charles,80,non-disclosed,omartinez,warhorse-skeleton,humanoid (orc),10.85
+52,Jonathan,53,non-disclosed,melanie87,spy,fiend (demon),12.06
+53,Joseph,20,non-disclosed,jennifer59,young-kruthik,beast,2.9
+54,James,7,non-disclosed,ccoffey,minotaur-skeleton,ooze,7.9
+55,George,68,non-disclosed,omartinez,wight,fey,4.68
+56,Craig,45,non-disclosed,ccoffey,swarm-of-poisonous-snakes,giant,4.79
+57,Andrew,21,non-disclosed,jennifer59,young-kruthik,elemental,18.02
+58,Rodney,55,non-disclosed,dawn72,owlbear,monstrosity,1.28
+59,Martin,23,non-disclosed,melanie87,mummy-lord,fiend (demon),7.46
+60,Brandon,78,non-disclosed,melanie87,young-kruthik,fey,2.63
+61,Shawn,79,non-disclosed,leonardmelissa,warhorse-skeleton,humanoid (any race),19.58
+62,Jeffrey,64,non-disclosed,ccoffey,imix,giant,15.88
+63,Jason,71,non-disclosed,leonardmelissa,archmage,giant,4.26
+64,Derek,11,non-disclosed,jennifer59,swarm-of-poisonous-snakes,fiend (yugoloth),8.78
+65,Kevin,51,non-disclosed,michaelhouse,minotaur-skeleton,humanoid (kuo-toa),15.94
+66,Christopher,63,non-disclosed,ccoffey,darkling-elder,dragon,8.73
+67,Earl,46,non-disclosed,xthompson,imix,fiend (demon),7.13
+68,Samuel,22,non-disclosed,leonardmelissa,imix,humanoid (elf),3.7
+69,Joseph,18,non-disclosed,omartinez,owlbear,fey,9.98
+70,Thomas,80,non-disclosed,jennifer59,giant-constrictor-snake,giant (stone giant),1.72
+71,Richard,18,non-disclosed,michaelhouse,darkling-elder,humanoid (kuo-toa),19.64
+72,Logan,58,non-disclosed,dawn72,swarm-of-poisonous-snakes,plant,6.24
+73,Brian,12,non-disclosed,michaelhouse,warhorse-skeleton,undead,16.59
+74,Kenneth,57,non-disclosed,dawn72,owlbear,undead,2.84
+75,Joel,74,non-disclosed,melanie87,young-kruthik,aberration,3.13
+76,Gabriel,39,non-disclosed,michaelhouse,archmage,fey (elf),13.74
+77,Eric,77,non-disclosed,michaelhouse,spy,dragon,7.0
+78,Richard,36,non-disclosed,xthompson,drow,fiend (yugoloth),9.48
+79,Richard,22,non-disclosed,jameshill,giant-constrictor-snake,giant (fire giant),19.42
+80,Edward,41,non-disclosed,xthompson,drow,humanoid (elf),18.2
+81,Richard,17,non-disclosed,jennifer59,giant-constrictor-snake,beast,17.31
+82,Charles,28,non-disclosed,omartinez,spy,beast,4.14
+83,Christopher,69,non-disclosed,jameshill,shadow-demon,beast,11.19
+84,Andrew,35,non-disclosed,xthompson,drow,beast,2.48
+85,Mark,57,non-disclosed,michaelhouse,bugbear-chief,beast,8.85
+86,Roberto,17,non-disclosed,omartinez,spy,humanoid (any race),1.93
+87,Andrew,36,non-disclosed,xthompson,galeb-duhr,humanoid (human),12.38
+88,Timothy,55,non-disclosed,jameshill,mummy-lord,elemental,18.74
+89,Gregg,60,non-disclosed,jameshill,giant-constrictor-snake,fey,17.95
+90,Cody,24,non-disclosed,xthompson,archmage,beast,10.3
+91,Harry,66,non-disclosed,rmatthews,minotaur-skeleton,undead,9.29
+92,Robert,11,non-disclosed,melanie87,mummy-lord,monstrosity,12.45
+93,Brett,74,non-disclosed,xthompson,minotaur-skeleton,fey,6.22
+94,Ryan,3,non-disclosed,dawn72,bugbear-chief,humanoid (any race),9.43
+95,Karl,32,non-disclosed,jameshill,shadow-demon,fiend (yugoloth),19.6
+96,Tyrone,6,non-disclosed,ccoffey,giant-constrictor-snake,humanoid (gith),6.09
+97,Paul,62,non-disclosed,michaelhouse,hobgoblin-warlord,humanoid (any race),17.08
+98,Sean,62,non-disclosed,leonardmelissa,magmin,elemental,8.92
+99,Jerry,11,non-disclosed,melanie87,mummy-lord,humanoid (any race),17.83
